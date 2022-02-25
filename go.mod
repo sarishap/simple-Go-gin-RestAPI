@@ -1,4 +1,4 @@
-module github.com/sarishap/jwt-authentication-in-go
+module github.com/sarishap/simple-Go-gin-RestAPI
 
 go 1.17
 
